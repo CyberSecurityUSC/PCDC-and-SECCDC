@@ -6,6 +6,9 @@ Structure:
   - Linux:
         - Dunno yet
 
+  - Scripts: Python Scripts for doing stuff
+  		- TCP: Simple Socket TCP example
+
   - Administrative:
         - Photos and jazz
 
