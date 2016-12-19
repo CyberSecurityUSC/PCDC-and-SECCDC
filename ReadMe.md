@@ -23,7 +23,7 @@ Structure:
   - Scripts: Python Scripts for doing stuff
       - TCP: Simple Socket TCP example
 
-  - Administrative:
+  - Administration:
       - What needs to be done
       - Assignment of roles
 
