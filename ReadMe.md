@@ -24,4 +24,7 @@ Structure:
   		- TCP: Simple Socket TCP example
 
   - Administrative:
-        - Photos and jazz
+        - What needs to be done
+        - Assignment of roles
+
+
