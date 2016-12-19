@@ -1,0 +1,21 @@
+Network:
+- Nmap
+- IDS
+- Firewall
+- Router/Hub
+Linux:
+- apt-get update && apt-get ugprade -y
+- Backdoor root account
+- IP Tables
+- No remote root
+- Passkey for users
+- Secure webpages
+- redo file shares
+Windows:
+- WSUS Server(Power Shell)
+- Patching
+- Windows Firewall
+- 2nd Admin account
+- Locate bad dlls
+- redo file shares
+

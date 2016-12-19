@@ -2,6 +2,7 @@ Structure:
 
   - Windows:
       - Power Shell Commands
+      - Registry
       - Resources: Suggested resources for Windows administration
           - Exchange Server: Resources on administrating Windows Exhange Server
           - Active Directory: Resources on administrating Windows AD
