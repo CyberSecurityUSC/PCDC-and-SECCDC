@@ -1,0 +1,10 @@
+NMAP: Enumerate(Review Report)
+Firewall/Router(local too)
+WSUS/ Windows GPO
+Linux flush sources & update
+Remove Account, Rename Admin, 2nd Root Account, New passwords(Applications too)
+Audit Shares
+Snapshots?
+SSH(Require Public Auth/ no SSH for root/sudo)
+Check startup proccesses/cron(Windows Scheduled Tasks)
+Restart all systems
