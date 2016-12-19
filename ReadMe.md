@@ -21,10 +21,10 @@ Structure:
           - Customization
 
   - Scripts: Python Scripts for doing stuff
-  		- TCP: Simple Socket TCP example
+      - TCP: Simple Socket TCP example
 
   - Administrative:
-        - What needs to be done
-        - Assignment of roles
+      - What needs to be done
+      - Assignment of roles
 
 
