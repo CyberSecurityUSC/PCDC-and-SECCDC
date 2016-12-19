@@ -1,5 +1,0 @@
-Update Group Policies
-  - Change WSUS server
-  
-  - Force Group Policy update (run on each client machine)
-    GPUpdate.exe /force
