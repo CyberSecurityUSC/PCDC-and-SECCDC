@@ -4,9 +4,18 @@ Firewall/Router(local too)
 -iptables
 WSUS/ Windows GPO
 Linux flush sources & update
+-Ubuntu: sudo apt-get clean
+  -Source list in /etc/apt/sources.list. Example: deb http://us.archive.ubuntu.com/ubuntu xenial main restricted
+  -List PPAs: cat /etc/apt/sources.list.d/*
+  -After deleting/changing sources, be sure to run sudo apt-get update
+-CentOS/RedHat: sudo yum clean all
 Remove Account, Rename Admin, 2nd Root Account, New passwords(Applications too)
+-Linux: 
+  -Remove user: userdel -r USERNAME
+  -Add user to sudoers: sudo adduser USERNAME sudo
+  -Disable root account: sudo passwd -dl root
+  
 Audit Shares
-Snapshots?
 SSH(Require Public Auth/ no SSH for root/sudo)
 Check startup proccesses/cron(Windows Scheduled Tasks)
 Restart all systems
