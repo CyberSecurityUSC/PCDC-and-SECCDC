@@ -22,6 +22,9 @@ Remove Account, Rename Admin, 2nd Root Account, New passwords(Applications too)
   -View every group with sudo access: cat /etc/sudoers #Should only contain root, admin(or wheel) and sudo
   -Check for secondary root accounts: grep 'x:0:' /etc/passwd
 Audit Shares
-SSH(Require Public Auth/ no SSH for root/sudo)
+SSH(Require Public Auth/ no SSH for root/sudo) #Probably safe to just disable ssh
 Check startup proccesses/cron(Windows Scheduled Tasks)
+-Linux:
+  -initctl list
+  -systemctl list-units --all --state=active
 Restart all systems
