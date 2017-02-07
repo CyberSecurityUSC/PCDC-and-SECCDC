@@ -1,5 +1,7 @@
 NMAP: Enumerate(Review Report)
+-nmap -sV subnet/bitmask
 Firewall/Router(local too)
+-iptables
 WSUS/ Windows GPO
 Linux flush sources & update
 Remove Account, Rename Admin, 2nd Root Account, New passwords(Applications too)
