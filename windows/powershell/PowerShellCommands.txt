@@ -3,3 +3,6 @@ Update Group Policies
   
   - Force Group Policy update (run on each client machine)
     GPUpdate.exe /force
+
+#Get-ADGroupMember "Domain Admins" | Get-AdUser -Property * | select name,distinguishedName,@{n='lastLogon';e={[DateTime]::FromFileTime($_.lastLogon)}},@{n='pwdLastSet';e={[DateTime]::FromFileTime($_.pwdLastSet)}}
+#Get-ADGroupMember "Domain Users" | Get-AdUser -Property * | select name,distinguishedName,@{n='lastLogon';e={[DateTime]::FromFileTime($_.lastLogon)}},@{n='pwdLastSet';e={[DateTime]::FromFileTime($_.pwdLastSet)}}
