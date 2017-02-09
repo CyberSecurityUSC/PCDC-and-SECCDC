@@ -14,11 +14,14 @@ Structure:
           - Redhat Linux: Resources on Redhat Linux
           - Ubuntu: Resources on administrating Ubuntu Linux
           - Security Onion: Resources on Security Onion
-          - Firewall: Resources on administrating various Firewall distributions as well as ip table usage
       - Scripts: Scripts for doing various things on Linux
           - Administration
           - Networking
           - Customization
+  - Firewall:
+      - IPTables: Using and configuring IPTables, as well as example rulesets
+      - pfSense:  Using and configuring pfSense, as well as example rulesets
+      - paloalto: Using paloalto firewall solutions
 
   - Scripts: Python Scripts for doing stuff
       - TCP: Simple Socket TCP example
