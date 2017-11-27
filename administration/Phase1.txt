@@ -1,8 +1,12 @@
 Phase 1
+- Remove unused services, accounts: Joshua
+- Change root password: Joshua
+- Keep track of intents: James
+- Windows AD: Kevin
+
 - Lock Down Firewall/switch: unassigned
 - WSUS/Updates: unassigned
 - Enumerate Network: unassigned
-- Remove accounts: everyone
 - Start forensic file scans: everyone
 - RTFM: Captain(unassigned)
 - Snapshots(if applicable): unassigned
