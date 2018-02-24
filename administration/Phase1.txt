@@ -8,5 +8,5 @@ Phase 1
 - WSUS/Updates: unassigned
 - Enumerate Network: unassigned
 - Start forensic file scans: everyone
-- RTFM: Captain(unassigned)
+- RTFM: Captain(James)
 - Snapshots(if applicable): unassigned
