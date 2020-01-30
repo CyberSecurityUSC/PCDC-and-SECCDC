@@ -21,10 +21,7 @@
 ## Firewall:
 * IPTables: Using and configuring IPTables, as well as example rulesets
 * PFSense:  Using and configuring pfSense, as well as example rulesets
-* PaloAalto: Using paloalto firewall solutions
-
-* Scripts: Python Scripts for doing stuff
-      * TCP: Simple Socket TCP example
+* PaloAlto: Using paloalto firewall solutions
 
 ## Admin
 * The Captain of the team oversees the various business objectives sent by 'management' (i.e. the competition managers). They handle all communication with the competition, all VM scrub (reset) requests, and communication with the room judge. 
